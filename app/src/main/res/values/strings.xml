@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Newz</string>
+
+    <string name="content_image_news">News\' Image</string>
+    <string name="getting_news">Loading News</string>
+    <string name="content_image_news_headline">Image News Headline</string>
+    <string name="option_search">Search</string>
+    <string name="search_hint">Find news</string>
+
+    <string name="news_detail">News</string>
+    <string name="no_news_text">No news corresponding with the given query found</string>
+</resources>
